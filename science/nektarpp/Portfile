@@ -7,7 +7,7 @@ PortGroup               gitlab 1.0
 PortGroup               boost 1.0
 
 gitlab.instance         https://gitlab.nektar.info
-gitlab.setup            nektar nektar 5.0.3 v
+gitlab.setup            nektar nektar 5.1.0 v
 
 boost.version           1.71
 
@@ -35,10 +35,10 @@ distfiles               ${main_distfile}:main \
                         tetgen-1.5.zip:thirdparty \
                         triangle-1.6.zip:thirdparty
 
-checksums               nektar-5.0.3.tar.bz2 \
-                        rmd160  352e69fb1d7fc56c59ea344c3772f6b03e5e57e7 \
-                        sha256  2786525ec46884c726c1ab3518846b639b1995d761b66031b7e3d55441c6364f \
-                        size    51949715 \
+checksums               nektar-5.1.0.tar.bz2 \
+                        rmd160  2770ba3065c5db17775bf6412e999f6f25deaa01 \
+                        sha256  d03114ee1a38708e4b0f86bedcf957980c88e8576acaf6101a904155c8a84317 \
+                        size    57893972 \
                         tetgen-1.5.zip \
                         rmd160  d8785f4ca6b26608ec9423f7574a0e736380370a \
                         sha256  52207793198746de14abcb30a0aeed617d7348ff37544e7d7e65aaaa76d7fa70 \
